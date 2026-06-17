@@ -41,6 +41,12 @@
     	"zigen_url": "./zigen/xiaoxiang.json",
     	"zigen_font": "./ChaiPUA-0.2.7.ttf"
     },
+    {
+        "id": "yuhao_starmoon",
+        "full_name": "星月",
+        "zigen_url": "./zigen/yuhao_starmoon.json",
+        "zigen_font": "./Yuniversus.woff"
+    },
 	{
 		"id": "yueling",
 		"full_name": "月灵",
