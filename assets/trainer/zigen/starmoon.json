@@ -2076,7 +2076,8 @@
       },
       {
         "zigens": [
-          "止"
+          "止",
+          ""
         ],
         "code": "od",
         "classify": "通",
@@ -3476,20 +3477,6 @@
           ""
         ],
         "code": "nv",
-        "classify": "通",
-        "description": ""
-      }
-    ],
-    "description": ""
-  },
-  {
-    "type": "类",
-    "groups": [
-      {
-        "zigens": [
-          ""
-        ],
-        "code": "od",
         "classify": "通",
         "description": ""
       }
